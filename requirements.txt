@@ -1,7 +1,10 @@
 streamlit
+streamlit-autorefresh
 pandas
 numpy
 plotly
 websockets
 statsmodels
 duckdb
+scikit-learn
+scipy
